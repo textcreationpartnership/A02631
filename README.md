@@ -35,9 +35,11 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-A briefe answere of Thomas Harding Doctor of Diuinitie touching certaine vntruthes with which Maiste
+
 #####Body#####
-A briefe answere of Thomas Harding Doctor of Diuinitie touching certaine vntruthes with which Maiste
+
+1. TO THE READER.
+
 **Types of content**
 
   * Oh, Mr. Jourdain, there is **prose** in there!
